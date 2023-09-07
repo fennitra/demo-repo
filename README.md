@@ -9,4 +9,3 @@ Some description!
 ## Local development (copy)
 
 2. Open again your code index.html.
-git
